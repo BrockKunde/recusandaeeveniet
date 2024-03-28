@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "demos/*",
+    "modules/*",
+    "packages/*",
+    "providers/*"
+  ],
+  "version": "0.0.5-alpha7"
+}

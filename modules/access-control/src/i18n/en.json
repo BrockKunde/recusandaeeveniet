@@ -1,0 +1,9 @@
+{
+  "transfer-ownership": "Transfer ownership",
+  "owner": "Owner",
+  "cancel": "Cancel",
+  "Confirm": "Confirm",
+  "new-owner-address": "New owner's ethereum address",
+  "make-public": "Make Public",
+  "make-private": "Keep Private"
+}
